@@ -1,2 +1,2 @@
-# building website using figma and css
+# building-website-using-figma-and-css
  
